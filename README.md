@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tushar-wiz
 - 💡 I’m interested in Embedded Systems and FPGAs
 - 📚 I’m currently learning to work on STM32
-- ⚡ I’m looking to collaborate on Arduino Libraries
 - 📫 How to reach me --> tushar.u110@gmail.com
 
 <!---
